@@ -7,3 +7,4 @@ Modification du fichier en ligne pour tester la commande Pull en local...
 Ajout d'une ligne en local pour tester de nouveau la commande Push
 
 Ajout d'une nouvelle branche pour test
+Ajout de nouvelle-branche2
