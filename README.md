@@ -1,5 +1,5 @@
 # demo_git
-La deuxième logne est modifié dans "nouvelle branche"
+La deuxième logne est modifiée dans Master
 Ce repository me permet de m'initier à l'utilisation de Git et GitHub
 
 Modification du fichier en ligne pour tester la commande Pull en local...
